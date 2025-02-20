@@ -1,15 +1,9 @@
 
 export default function Home() {
     return (
-      <div className="bg-slate-900 p-8 flex justify-between text-xl">
-        <h2>Logo</h2>
-        <nav className="list-none flex gap-8">
-          <li>Home</li>
-          <li>Page 1</li>
-          <li>estas en 2 partner </li>
-        </nav>
-      </div> 
-  
+      <div className="min-h-screen flex justify-center items-center">
+        <h1 className="text-4xl text-white font-bold">En construcción</h1>
+      </div>
     );
   }
   
